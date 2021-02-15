@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scene Scope="Project" version="2">
+    <Scope Scope="Faces Configuration Only"/>
+    <Scope Scope="Project">
+        <Node id="tameplate.xhtml" x="1029" y="192" zoom="true"/>
+        <Node id="NotesList.jsp" x="632" y="379" zoom="true"/>
+        <Node id="Home.jsp" x="947" y="139" zoom="true"/>
+        <Node id="ViewNotes.jsp" x="402" y="481" zoom="true"/>
+        <Node id="NewNotes.jsp" x="170" y="91" zoom="true"/>
+        <Node id="welcomeJSF.jsp" x="103" y="320" zoom="true"/>
+        <Node id="UpNotes.xhtml" x="1032" y="257" zoom="true"/>
+        <Node id="UpNotes.jsp" x="397" y="176" zoom="true"/>
+    </Scope>
+    <Scope Scope="All Faces Configurations"/>
+</Scene>
